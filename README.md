@@ -5,7 +5,7 @@ This app will help you generate a HTML page of your company's team members and s
 ## User Stories
 
 ```
-AAs a manager
+As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
