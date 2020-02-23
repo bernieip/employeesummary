@@ -1,4 +1,4 @@
-const employeeData = require("./lib/collectData")
+const employeeData = require("./lib/collectData");
 
 function init() {
     employeeData();
